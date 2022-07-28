@@ -333,8 +333,8 @@ function plotBoxMean(sel, axes, trace, t) {
 }
 
 module.exports = {
-    plot: plot,
-    plotBoxAndWhiskers: plotBoxAndWhiskers,
+ //   plot: plot,
+   // plotBoxAndWhiskers: plotBoxAndWhiskers,
     plotPoints: plotPoints,
     plotBoxMean: plotBoxMean
 };
